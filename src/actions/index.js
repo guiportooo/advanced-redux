@@ -5,3 +5,5 @@ export {
   OFFLINE,
   AWAY,
 } from './updateStatus';
+
+export const RECEIVE_MESSAGE = 'RECEIVE_MESSAGE';
